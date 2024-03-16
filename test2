@@ -20,7 +20,7 @@ local LocalPlayer = game:GetService("Players").LocalPlayer
 local giftMeshId = "rbxassetid://15239110635"
 getgenv().autoBalloon = true
 
-------------fixlag
+--fixlag
 local lighting = game.Lighting
 local terrain = game.Workspace.Terrain
 terrain.WaterWaveSize = 0
